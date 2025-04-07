@@ -22,10 +22,9 @@ A machine learning project to forecast grocery item sales using historical data.
 
 ```bash
 git clone https://github.com/yourusername/grocery-sales-forecasting.git
-cd grocery-sales-forecasting ```
+cd grocery-sales-forecasting
 
-```bash
-pip install flask pandas numpy scikit-learn joblib ```
-```bash
-streamlit run app.py```
+pip install flask pandas numpy scikit-learn joblib
+
+streamlit run app.py
 
